@@ -16,4 +16,5 @@ SDK Tools，如android.bat、ddms.bat和emulator.exe等等，这些命令位于<
 | [android/android-sdk_r23.0.2-linux.tgz](http://dl.google.com/android/android-sdk_r23.0.2-linux.tgz) |
 
 可参考历史版本修改如下对应的版本下载
+
 https://dl.google.com/android/android-sdk_r24.0.2-windows.zip
