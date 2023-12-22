@@ -1,4 +1,4 @@
-# AndroidSDK-history-
+# AndroidSDK-history
 Android SDK DDMS
 
 SDK Tools，如android.bat、ddms.bat和emulator.exe等等，这些命令位于<sdk>\tools目录，但运行仿真器所需的rom并不包含在内；
